@@ -1,0 +1,2 @@
+[galaxyservers]
+__VM_HOST__ ansible_connection=local
